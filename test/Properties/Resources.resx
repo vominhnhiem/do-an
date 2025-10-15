@@ -121,17 +121,20 @@
   <data name="image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="istockphoto-472347896-1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\istockphoto-472347896-1024x1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="nuoc-sting-dau-320ml-24-lon-thung_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nuoc-sting-dau-320ml-24-lon-thung_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="IMG_20231001_132452" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\IMG_20231001_132452.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="nuoc-sting-dau-320ml-24-lon-thung_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nuoc-sting-dau-320ml-24-lon-thung_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="istockphoto-535983237-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-535983237-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,10 +145,16 @@
   <data name="pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-football-field-icon-trendy-style-isolated-background-png-image_1543639-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="91LnEhnul6L._SL1500_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\91LnEhnul6L._SL1500_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="128993162_p0_master1200" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\128993162_p0_master1200.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="istockphoto-472347896-1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-472347896-1024x1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10100996__7up_320ml_sleek_lon_0366766c074a4b538595ed8d91dc6b0d_1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_10100996__7up_320ml_sleek_lon_0366766c074a4b538595ed8d91dc6b0d_1024x1024.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

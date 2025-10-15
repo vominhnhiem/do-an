@@ -63,9 +63,29 @@ namespace test.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _10100996__7up_320ml_sleek_lon_0366766c074a4b538595ed8d91dc6b0d_1024x1024 {
+            get {
+                object obj = ResourceManager.GetObject("_10100996__7up_320ml_sleek_lon_0366766c074a4b538595ed8d91dc6b0d_1024x1024", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _128993162_p0_master1200 {
             get {
                 object obj = ResourceManager.GetObject("128993162_p0_master1200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _91LnEhnul6L__SL1500_ {
+            get {
+                object obj = ResourceManager.GetObject("91LnEhnul6L._SL1500_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,6 +126,16 @@ namespace test.Properties {
         internal static System.Drawing.Bitmap istockphoto_472347896_1024x1024 {
             get {
                 object obj = ResourceManager.GetObject("istockphoto-472347896-1024x1024", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_535983237_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-535983237-612x612", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
