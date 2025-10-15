@@ -121,10 +121,6 @@
     <Compile Include="frmTinhTien.Designer.cs">
       <DependentUpon>frmTinhTien.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\HoaDon.cs" />
-    <Compile Include="Models\Nuoc.cs" />
-    <Compile Include="Models\SanBongDB.cs" />
-    <Compile Include="Models\UserLogin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmDangKy.resx">
@@ -225,6 +221,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\_10100996__7up_320ml_sleek_lon_0366766c074a4b538595ed8d91dc6b0d_1024x1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

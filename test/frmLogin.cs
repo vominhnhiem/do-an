@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using test.Models;
 
 namespace test
 {
@@ -19,8 +18,7 @@ namespace test
         }
         private void btnDN_Click(object sender, EventArgs e)
         {
-            NguoiDungDB context = new NguoiDungDB();
-            List<NguoiDung> list = context.NguoiDungs.ToList();
+
             if (txtTK.Text == "admin")
             {
                 MessageBox.Show("Đăng nhập thành công");

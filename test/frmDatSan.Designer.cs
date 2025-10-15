@@ -148,6 +148,19 @@
             // cmbHour
             // 
             this.cmbHour.FormattingEnabled = true;
+            this.cmbHour.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"});
             this.cmbHour.Location = new System.Drawing.Point(156, 212);
             this.cmbHour.Name = "cmbHour";
             this.cmbHour.Size = new System.Drawing.Size(56, 24);

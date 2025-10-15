@@ -21,3 +21,26 @@ D:\Study\code\save rac\test\test\bin\Debug\EntityFramework.SqlServer.dll
 D:\Study\code\save rac\test\test\bin\Debug\EntityFramework.xml
 D:\Study\code\save rac\test\test\bin\Debug\EntityFramework.SqlServer.xml
 D:\Study\code\save rac\test\test\obj\Debug\test.csproj.Up2Date
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.exe.config
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmDangKy.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmDatNuoc.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmHome.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmLichDatSan.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmLogin.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmDatSan.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmTaiKhoang.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.frmTinhTien.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.Properties.Resources.resources
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.exe
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.pdb
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\test.exe.config
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\test.exe
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\test.pdb
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\EntityFramework.dll
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\EntityFramework.xml
+D:\Study\Du an San Bong\Code\SourceTree\test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Du an San Bong\Code\SourceTree\test\obj\Debug\test.csproj.Up2Date

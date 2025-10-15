@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using test.Models;
 
 namespace test
 {
@@ -25,16 +24,7 @@ namespace test
 
         private void btnDK_Click(object sender, EventArgs e)
         {
-            var newUser = new NguoiDung
-            {
-                TK = txtTK.Text,
-                MK = txtMK.Text,
-                HoTen = txtHoTen.Text,
-            };
-
-            NguoiDungDB context = new NguoiDungDB();
-            context.NguoiDungs.Add(newUser);
-            context.SaveChanges();
+            
 
             MessageBox.Show("Đăng ký thành công");
             frmLogin f = new frmLogin();
