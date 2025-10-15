@@ -72,6 +72,7 @@
             this.txtSting.Name = "txtSting";
             this.txtSting.Size = new System.Drawing.Size(100, 22);
             this.txtSting.TabIndex = 2;
+            this.txtSting.TextChanged += new System.EventHandler(this.txtSting_TextChanged);
             // 
             // label3
             // 

@@ -41,11 +41,16 @@ namespace test
             List<Nuoc> listNuoc = db.Nuocs.ToList();
             List<HoaDon> listHoaDon = db.HoaDons.ToList();
 
-
+            
 
             frmTinhTien f = new frmTinhTien();
             f.Show();
             this.Hide();
+        }
+
+        private void txtSting_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
