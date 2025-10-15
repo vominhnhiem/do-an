@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\code\\save rac\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\frmdatnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmdatnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\frmdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\frmlichdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmlichdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|d:\\study\\code\\save rac\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\models\\nguoidungdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\models\\nguoidungdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|D:\\Study\\code\\save rac\\test\\test\\frmtaikhoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74E78225-A7D9-4479-BBF5-BEC1EC0CDB73}|test\\test.csproj|solutionrelative:test\\frmtaikhoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangKy.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "test\\frmDangKy.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmDangKy.cs",
+              "RelativeToolTip": "test\\frmDangKy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvyMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:17:02.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "test\\frmDangKy.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "test\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:14:00.92Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\App.config",
+              "RelativeDocumentMoniker": "test\\App.config",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\App.config",
+              "RelativeToolTip": "test\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-15T14:04:20.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDatSan.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmDatSan.cs",
+              "RelativeDocumentMoniker": "test\\frmDatSan.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmDatSan.cs [Design]",
+              "RelativeToolTip": "test\\frmDatSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:04:15.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLichDatSan.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmLichDatSan.cs",
+              "RelativeDocumentMoniker": "test\\frmLichDatSan.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmLichDatSan.cs [Design]",
+              "RelativeToolTip": "test\\frmLichDatSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:04:13.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:00:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmHome.cs",
+              "RelativeDocumentMoniker": "test\\frmHome.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmHome.cs [Design]",
+              "RelativeToolTip": "test\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:59:32.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDatNuoc.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmDatNuoc.cs",
+              "RelativeDocumentMoniker": "test\\frmDatNuoc.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmDatNuoc.cs [Design]",
+              "RelativeToolTip": "test\\frmDatNuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:59:26.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmLogin.cs",
+              "RelativeDocumentMoniker": "test\\frmLogin.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmLogin.cs",
+              "RelativeToolTip": "test\\frmLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:14:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmLogin.cs",
+              "RelativeDocumentMoniker": "test\\frmLogin.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmLogin.cs [Design]",
+              "RelativeToolTip": "test\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:13:09.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTaiKhoang.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmTaiKhoang.cs",
+              "RelativeDocumentMoniker": "test\\frmTaiKhoang.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmTaiKhoang.cs [Design]",
+              "RelativeToolTip": "test\\frmTaiKhoang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:12:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguoiDungDB.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\Models\\NguoiDungDB.cs",
+              "RelativeDocumentMoniker": "test\\Models\\NguoiDungDB.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\Models\\NguoiDungDB.cs",
+              "RelativeToolTip": "test\\Models\\NguoiDungDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:08:40.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "test\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "test\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:45:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "D:\\Study\\code\\save rac\\test\\test\\frmHome.cs",
+              "RelativeDocumentMoniker": "test\\frmHome.cs",
+              "ToolTip": "D:\\Study\\code\\save rac\\test\\test\\frmHome.cs",
+              "RelativeToolTip": "test\\frmHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:33:24.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
