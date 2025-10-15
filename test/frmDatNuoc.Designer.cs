@@ -129,6 +129,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::test.Properties.Resources.istockphoto_535983237_612x612;
             this.ClientSize = new System.Drawing.Size(513, 515);
             this.Controls.Add(this.btnDatNuoc);
             this.Controls.Add(this.label3);
