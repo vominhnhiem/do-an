@@ -1,0 +1,14 @@
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\bin\Debug\DuAnSanBong.exe.config
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\bin\Debug\DuAnSanBong.exe
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\bin\Debug\DuAnSanBong.pdb
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.csproj.AssemblyReference.cache
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.Properties.Resources.resources
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.csproj.GenerateResource.cache
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.csproj.CoreCompileInputs.cache
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.exe
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.pdb
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.exe.config
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.frmHome.resources
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.frmDatNuoc.resources
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.frmDatSan.resources
+D:\Study\code\save rac\DuAnSanBong\DuAnSanBong\obj\Debug\DuAnSanBong.frmLichSan.resources
